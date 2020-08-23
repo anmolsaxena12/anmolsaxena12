@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a UI designer and a Front end developer
+Currently learning Bootstrap and Angular
 
 <!--
 **anmolsaxena12/anmolsaxena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
