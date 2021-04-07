@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a UI designer and a Front end developer
-Currently learning Bootstrap and Angular
+I am a Full stack developer, who works on MERN stack to make amazing websites.
+
 
 <!--
 **anmolsaxena12/anmolsaxena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
