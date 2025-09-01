@@ -1,18 +1,31 @@
 ### Hi there 👋
-I am a Full stack developer, who works on MERN stack to make amazing websites.
+💡 **AI Engineer | Full-Stack Developer** 
 
+I’m a developer at **SAP Labs India** with 3+ years of experience in **full-stack engineering** (Node.js, Python, TypeScript, Java, UI5) and a strong focus on **AI & Machine Learning**.  
+Currently, I’m transitioning into **Applied AI & GenAI engineering**, building projects around **LLMs, Retrieval-Augmented Generation (RAG), and model fine-tuning**.  
 
-<!--
-**anmolsaxena12/anmolsaxena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- 🔹 **Retrieval-Augmented Q&A System** → FastAPI + FAISS + Hugging Face + React  
+- 🔹 **LoRA Fine-tuning Pipeline** → customizing open-source LLMs for domain-specific tasks  
+- 🔹 **AI-Powered Resume & Interview Coach** → mock interviews & ATS scoring with LLMs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages & Frameworks**  
+`Python` | `JavaScript` | `TypeScript` | `Node.js` | `React` | `Java`  
+
+**AI/ML**  
+`LangChain` | `Hugging Face` | `Transformers` | `FAISS` | `LoRA`  
+
+**Cloud & DevOps**  
+`Docker` | `FastAPI` | `Flask` | `BTP` | `CI/CD`  
+
+---
+
+## 🌱 Currently Learning
+- Advanced **LLM fine-tuning** & evaluation  
+- **MLOps pipelines** for deploying ML at scale  
+- **Applied AI problem-solving** (retrieval, NLP, optimization)  
